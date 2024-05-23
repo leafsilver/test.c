@@ -1,0 +1,6 @@
+﻿  LinkList.c
+D:\code\单链表\LinkList.h(1,1): warning C4828: 文件包含在偏移 0x39d 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\code\单链表\LinkList.c(9): warning C4716: “InitList”: 必须返回一个值
+D:\code\单链表\LinkList.c(18): warning C4716: “CreateNode”: 必须返回一个值
+D:\code\单链表\LinkList.c(81): warning C4715: “GetElem”: 不是所有的控件路径都返回值
+  单链表.vcxproj -> D:\code\单链表\x64\Debug\单链表.exe
